@@ -1,5 +1,5 @@
 val commonSettings = Seq(
-  scalaVersion := "2.11.8"
+  scalaVersion := "2.12.0-M5"
 )
 
 val sampleLibrary = project.settings(
